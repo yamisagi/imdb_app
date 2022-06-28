@@ -58,7 +58,9 @@ In this project, I am trying to create an app Classic IMDB App
 
 Flutter features:
 
-* I will add used flutter features here later.
+* Used packages like [html](https://pub.dev/packages/html) and [convert](https://pub.dev/packages/convert).
+* Created Models [MovieModel] in [/lib/model] folder.
+* Used API key from [https://www.themoviedb.org/documentation/api] to get data from [https://api.themoviedb.org/3/movie/popular?api_key=<your-api-key>].
 
 <!-- I will add comments later.-->
 
@@ -81,7 +83,7 @@ Flutter features:
 - [x] I will use the [Flutter SDK](https://flutter.dev/docs/get-started/install) to create a new project.
 - [x] I will use the [Dart SDK](https://dart.dev/tools/get-started) to create a new project.
 - [x] I will use the [GitHub](https://github.com/) to track the project. And gonna commit everytime I make a change.
-- [ ] I will use IMDB API to get the data.
+- [x] I will use IMDB API to get the data.
 - [ ] And all the other stuff I will add later :) 
 
 
